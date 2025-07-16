@@ -1,6 +1,6 @@
 # Hotel-Revenue-Dashboard
 
-##**Background**
+## **Background**
 
 This project explores a hotel revenue dataset spanning across three years (2018, 2019, and 2020). SQL and Power BI were leveraged to uncover valuable insights about revenue & guest seasonality.
 
