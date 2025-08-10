@@ -9,4 +9,4 @@ Data from raw .csv file was ingested into SQL Server Management Studio [SSMS], f
 ## Power BI Dashboard
 
 The interactive PowerBI Dashboard created for this project can be found in the link below:  
-[PowerBI Dashboard Link]([https://www.novypro.com/project/hotel-revenue-analysis-dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzhmMDBhNzItMmZlZC00YzFiLTlmMzQtMWY0Nzc0YzhkOGJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+[PowerBI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNzhmMDBhNzItMmZlZC00YzFiLTlmMzQtMWY0Nzc0YzhkOGJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
